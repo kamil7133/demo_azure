@@ -1,2 +1,4 @@
 /python/venv
 /.vs
+/python/.env
+/python/.vs
